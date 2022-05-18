@@ -1,10 +1,4 @@
-This project was a very quick (5 hours) prototype to test the feasibility of moving an array of lights on winches using live stock data from the yahoo finance api. See below.
-
-
-
-https://user-images.githubusercontent.com/88803350/169158787-bf39a234-1e80-40fb-a3ac-9ca51c858390.mp4
-
-
+This project was a very quick (5 hours) prototype to test the feasibility of moving an array of lights on winches using live stock data from the yahoo finance api. Please get in contact for visual reference.
 
 The project accesses the api repeatedly using python, saves that needed data to a json file, where the openframeworks app reads the json and creates the ever updating picture below (mirrored due to a quirk of spout flipping the sent video)
 
